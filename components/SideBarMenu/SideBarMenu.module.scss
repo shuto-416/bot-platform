@@ -1,0 +1,35 @@
+@import '../../styles/theme';
+
+.manuBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 100%;
+  background-color: var(--menu-bg-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.menuItemWrap {
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+}
+
+.menuItem {
+  font-size: 24px;
+  color: var(--menu-item-color);
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+
+  &.active,
+  &:hover {
+    color: #ffffff;
+  }
+}
