@@ -1,0 +1,92 @@
+@import '../styles/theme';
+
+.chatWrap {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.chatRoomList {
+  flex: 2.5;
+  min-height: 100%;
+  padding-top: 52px;
+  background: var(--bg-color);
+  border-right: 1px solid var(--border-color);
+}
+
+.chatRoomListInner {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  border-bottom: 1px solid var(--border-color);
+
+  &:hover,
+  &.active {
+    background: var(--hover-bg-color);
+    cursor: pointer;
+  }
+}
+
+.userIcon {
+  background: #a9acb3;
+  color: white;
+  padding: 12px;
+  border-radius: 50%;
+}
+
+.userName {
+  color: var(--active-text-color);
+  padding-left: 20px;
+}
+
+.chatContent {
+  position: relative;
+  flex: 7.5;
+  padding-top: 52px;
+  background: var(--bg-color);
+}
+
+.chatHistoryWrap {
+
+}
+
+.textAreaWrap {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.textArea {
+  width: 100%;
+  height: auto;
+  min-height: 1rem;
+  max-height: 10rem;
+  resize: none;
+  overflow: hidden;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  outline: none;
+  font-size: 16px;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+.sendButton {
+  position: absolute;
+  bottom: 1.5rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 20px;
+  color: var(--active-text-color);
+  cursor: pointer;
+
+  &:hover {
+    color: var(--active-text-color);
+  }
+}
