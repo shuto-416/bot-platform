@@ -1,26 +1,19 @@
-:root {
-  --background-color-light: #ffffff;
-  --background-color-dark: #2c3e50;
-  --text-color-light: #333333;
-  --text-color-dark: #ffffff;
+.theme-light {
+  --bg-color: #ffffff;
+  --active-text-color: #333333;
+  --inactive-text-color: rgba(51, 51, 51, 0.3);
+  --border-color: rgba(51, 51, 51, 0.1);
+  --hover-bg-color: rgba(79, 79, 79, 0.1);
   --menu-bg-color: #2c3e50;
-  --menu-item-color-light: #a9acb3;
+  --menu-item-color: #a9acb3;
 }
 
-[data-theme="light"] {
-  --background-color: var(--background-color-light);
-  --text-color: var(--text-color-light);
-  --menu-bg-color: var(--menu-bg-color);
-  --menu-item-color: var(--menu-item-color-light);
-}
-
-[data-theme="dark"] {
-  --background-color: var(--background-color-dark);
-  --text-color: var(--text-color-dark);
-  --menu-bg-color: var(--menu-bg-color);
-}
-
-body {
-  background-color: var(--background-color);
-  color: var(--text-color);
+.theme-dark {
+  --bg-color: #4F4F4F;
+  --active-text-color: #ffffff;
+  --inactive-text-color: rgba(255, 255, 255, 0.3);
+  --border-color: rgba(255, 255, 255, 0.1);
+  --hover-bg-color: rgba(255, 255, 255, 0.1);
+  --menu-bg-color: #333333;
+  --menu-item-color: #a9acb3;
 }
