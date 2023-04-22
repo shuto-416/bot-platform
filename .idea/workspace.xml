@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0703c64-1083-4e08-9618-195c1b865ed8" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/alpha.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout/Layout.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/Layout.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SideBarMenu/SideBarMenu.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/SideBarMenu/SideBarMenu.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SideBarMenu/SideBarMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SideBarMenu/SideBarMenu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/ThemeContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/ThemeContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/users/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/users/[id].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/users/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/users/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/sample-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utils/sample-data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OOapoli14ZRki0IpgasnzHWMip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/hamaguchishuto/Desktop/weel/bot-platform/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/Layout" />
+      <recent name="$PROJECT_DIR$/components/Header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="e0703c64-1083-4e08-9618-195c1b865ed8" name="変更" comment="" />
+      <created>1681434267482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681434267482</updated>
+      <workItem from="1681434268752" duration="404000" />
+      <workItem from="1681434688185" duration="33473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
